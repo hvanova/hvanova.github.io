@@ -1,30 +1,36 @@
 <script>
-  import LogoIcon from "../svg/logo.svelte";
+  import LogoIcon from "../svg/target.svelte";
 </script>
 
-<nav class="navbar justify-between mb-2">
-  <div>
-    <a href="/" alt="Site logo" class="mx-6 mb-8 mt-3">
+<nav class="navbar bg-secondary flex justify-between w-full pt-2">
+  <div class="navbar-start">
+    <a href="/" alt="Site logo" class="ml-4 btn btn-md p-2 btn-secondary">
       <LogoIcon />
     </a>
   </div>
-  <div class="navbar-end mb-2 flex pr-8 space-x-6">
-    <a class="btn btn-primary" href=""> About </a>
-    <a class="btn btn-primary" href=""> Contact </a>
+  <div class="navbar-end space-x-6 mr-4">
+    <a class="btn btn-secondary btn-md" href=""> About </a>
+    <a class="btn btn-secondary btn-md" href=""> Contact </a>
     <a
-      class="btn btn-primary"
+      class="btn btn-secondary btn-md"
       href="https://drive.google.com/file/d/1_cvyaBoC2ltvacSRy39_N5MfNGT3VLDf/view?usp=sharing"
     >
       Resume
     </a>
   </div>
 </nav>
+<div class="name justify-around pt-4 ">Hannah VanWingen</div>
+<div class="flex items-center flex-col pt-4">
+  <div>Hello! Glad you're here</div>
+  <div>Sort through my personal and collaborative projects.</div>
+</div>
 
 <style>
-  nav {
-    background-image: linear-gradient(to bottom, transparent, 90%, white),
-      url("/images/nav-back.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+  .name {
+    font-size: 3.5vw;
+    font-family: "Unica One";
+    letter-spacing: 12px;
+    text-align: center;
+    font-weight: 1000;
   }
 </style>
