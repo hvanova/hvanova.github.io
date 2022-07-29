@@ -1,7 +1,7 @@
 <script>
   let tech = [
     "Python [ NumPy, Pandas, PyTorch, Flask ]",
-    "JavaScript [ Vue, React, D3 ]"
+    "JavaScript [ Vue, React, D3 ]",
     "GIS",
     "",
     "MatLab",

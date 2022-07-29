@@ -5,7 +5,10 @@
 </script>
 
 <div class="flex flex-col w-full items-center mt-8">
-  <div class="font-bold text text-xl my-2">Let's Collaborate</div>
+  <div class="font-bold text text-xl my-2">
+    I'm currently looking for new opportunities. Feel free to reach out for any
+    reason
+  </div>
   <div class="flex pr-4 space-x-6">
     <a
       class="btn btn-md btn-secondary p-2"

@@ -12,9 +12,8 @@
   <Contact />
 </main>
 
-<style>
-  /* .background {
-    background-image: url("images/terra.jpg");
-    background-size: cover;
-  } */
+<style lang="stylus">
+  :global(html) {
+    background: rgb(20, 85, 100);
+  }
 </style>
