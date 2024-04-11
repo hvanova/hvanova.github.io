@@ -19,9 +19,15 @@
     class="text-left text-xs mt-20 font-bold text-secondaryText tracking-widest h-full navBar"
 >
     <div class="w-full">
-        <NavOption name="ABOUT" {selectedOption} {handleClick} />
-        <NavOption name="EXPERIENCE" {selectedOption} {handleClick} />
-        <NavOption name="PROJECTS" {selectedOption} {handleClick} />
+        <a href="#about"
+            ><NavOption name="ABOUT" {selectedOption} {handleClick} /></a
+        >
+        <a href="#experience">
+            <NavOption name="EXPERIENCE" {selectedOption} {handleClick} /></a
+        >
+        <a href="#projects">
+            <NavOption name="PROJECTS" {selectedOption} {handleClick} /></a
+        >
     </div>
     <div class="links w-full">
         <div class="link">
