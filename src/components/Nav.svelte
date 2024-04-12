@@ -16,9 +16,9 @@
 
 <div
     id="nav"
-    class="text-left text-xs mt-20 font-bold text-secondaryText tracking-widest h-full navBar"
+    class="text-left text-xs mt-10 font-bold text-secondaryText tracking-widest navBar"
 >
-    <div class="w-full">
+    <!-- <div class="w-full">
         <a href="#about"
             ><NavOption name="ABOUT" {selectedOption} {handleClick} /></a
         >
@@ -28,7 +28,7 @@
         <a href="#projects">
             <NavOption name="PROJECTS" {selectedOption} {handleClick} /></a
         >
-    </div>
+    </div> -->
     <div class="links w-full">
         <div class="link">
             <a href={links.github}>

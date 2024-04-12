@@ -1,38 +1,40 @@
 <script>
   import Header from "./components/Header.svelte";
-  import Nav from "./components/Nav.svelte";
   import About from "./components/About.svelte";
   import Experience from "./components/Experience.svelte";
+  import Projects from "./components/Projects.svelte";
+  import Nav from "./components/Nav.svelte";
 </script>
 
 <main class="main bg-main font-inter">
-  <div class="col mr-14 leftCol">
+  <div class="mt-20">
     <Header />
     <Nav />
-  </div>
-  <div class="col pr-10 mr-14 h-full">
-    <About />
-    <Experience />
+    <div>
+      <About />
+      <Experience />
+      <Projects />
+    </div>
   </div>
 </main>
 
 <style>
   .main {
     background-position: center;
-    height: 100vh;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    padding: 0px 140px 0px 140px;
+    column-gap: 160px;
   }
   .col {
     flex: 1;
     flex-direction: column;
     display: flex;
-    min-width: 300px;
+    min-width: 500px;
     overflow: scroll;
     scrollbar-color: white;
-  }
-  .leftCol {
-    padding: 80px 20px 80px 160px;
+    max-height: 100vh;
+    /* padding: 80px 0px 80px 0px; */
   }
 </style>
