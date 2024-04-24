@@ -13,7 +13,7 @@
     }
 </script>
 
-<div id="nav" class="container text-left text-xs font-bold tracking-widest">
+<div id="nav" class="py-10">
     <!-- <div class="w-full">
         <a href="#about"
             ><NavOption name="ABOUT" {selectedOption} {handleClick} /></a
@@ -61,12 +61,12 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        width: 400px;
+        width: 300px;
     }
     .container {
-        display: flex;
+        /* display: flex;
         align-items: center;
         justify-content: center;
-        padding: 100px 16% 0px 16%;
+        padding: 100px 16% 0px 16%; */
     }
 </style>
