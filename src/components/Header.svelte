@@ -1,18 +1,16 @@
 <script>
-    import {name, title, bio} from "../../content/about.js"
+  import { name, title } from "../../content/about.js";
 </script>
 
 <div id="header" class="text-left">
-    <p class="text-4xl mt-3 font-bold text-white tracking-widest">
-      {name}
-    </p>
-    <p class="text-xl text-white mt-4 tracking-wider">
-      {title}
-    </p>
-    <p class="text-m text-secondaryText mt-4 tracking-wider">
-      {bio}
-    </p>
+  <p class="text-4xl font-bold text-white mt-3 tracking-widest">
+    {name}
+  </p>
+  <p class="text-xl text-secondaryText mt-4 tracking-wider">
+    {title}
+  </p>
 </div>
-  
+
 <style lang="stylus">
+
 </style>

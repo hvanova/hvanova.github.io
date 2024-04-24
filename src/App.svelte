@@ -7,7 +7,7 @@
 </script>
 
 <main class="main bg-main font-inter">
-  <div class="mt-20">
+  <div class="container">
     <Header />
     <Nav />
     <div>
@@ -20,21 +20,17 @@
 
 <style>
   .main {
-    background-position: center;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 0px 140px 0px 140px;
-    column-gap: 160px;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
   }
-  .col {
-    flex: 1;
-    flex-direction: column;
-    display: flex;
-    min-width: 500px;
-    overflow: scroll;
-    scrollbar-color: white;
-    max-height: 100vh;
-    /* padding: 80px 0px 80px 0px; */
+  .container {
+    padding: 0 10%;
+    margin-top: 8%;
+    max-width: 2000px;
+    width: 100%;
   }
 </style>
