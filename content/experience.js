@@ -19,7 +19,7 @@ export default [
         description: `Led the development of a configurable and automated data reporting service in React.
         Collaborated with cross-functional teams to design and implement data visualizations using D3.js.
         Demonstrated commitment to ensuring reliable data systems performance by participating in on-call responsibilities using Opsgenie. 
-        Documented product requirements and metric calculation details and to maintain data integrity and capture best practices for further development and addressing common issues.
+        Documented product requirements and metric calculation details and to maintain data integrity and capture best practices for common issues and further development.
         Collaborated on data transformation components for a fully automated backend and frontend data reporting service.`,
         link: "https://www.lark.com/",
         skills: [
@@ -30,10 +30,9 @@ export default [
         title: `Research Scientist, Data Visualization`,
         company: `Michigan Aerospace Corporation`,
         range: `JULY 2019 –– JUNE 2020`,
-        description: `Designed and implemented a Python graphical model detecting fluid motion vector fields. Led the development of a highly interactive and configurable D3.js data visualization library that enables users to explore complex datasets for time series, confusion matrices, stacked bar graphs, 2D Gaussian distributions, and networks.
+        description: `Designed and implemented a Python graphical model detecting fluid motion vector fields. Led the development of a highly interactive and configurable D3.js data visualization library.
         Developed the D3.js data visualizations, unit testing, and the data ingestion workflow for a commercial web app aggregating invasive species with neural network analysis of drone imagery.       
-        Wrote a grant proposal to the US Department of Energy for a data sharing platform that automates the processing of raw data files by detecting data types and displaying an optimal visualization to showcase trends, correlations, distributions, and anomalies.
-        Collaborated on data analytics and led visualization efforts for the ARGOS.ai project, a holistic automated platform that utilizes machine learning and drones to monitor and assess invasive plant species. Learned DroneDeploy API integration and gained environmental field research experience.`,
+        Wrote a grant proposal to the US Department of Energy for a data sharing platform that automates the processing of raw data files by detecting data types and displaying an optimal visualization to showcase trends, correlations, distributions, and anomalies.`,
         link: `https://www.michiganaerospace.com/`,
         skills: [
             `Python`, `Javascript`, `D3.js`, `Vue.js`, `React`,
@@ -43,7 +42,7 @@ export default [
         title: `Data Visualization Intern`,
         company: `University of Michigan Digital Projects Studio`,
         range: `SEPT 2018 –– MAY 2019`,
-        description: `Collaborated in designing and implementing a unique and interactive multidimensional data visualization for text citations using D3.js.
+        description: `Collaborated in designing and implementing a unique and interactive multidimensional data visualization tool for text citations using D3.js.
         Created an interactive tutorial for network-based data modeling and statistical analysis in Python using Jupyter Notebooks, providing an accessible platform to learn and apply cutting-edge statistics.`,
         link: `https://clarkdatalabs.github.io/`,
         skills: [
