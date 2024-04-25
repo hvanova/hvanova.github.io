@@ -10,12 +10,12 @@
                 <div class="image my-4">
                     <img src={project.imagePath} alt={project.title} />
                 </div>
-                <div class="text ml-10">
+                <div class="text">
                     <div class="text-white text-l title">
                         {project.title}
                     </div>
                     <div class="text-secondaryText">
-                        {project.role}
+                        {project.role}, {project.year}
                     </div>
                     <div class="text-greyText mt-4 text-sm">
                         {project.description}
@@ -29,6 +29,7 @@
 <style>
     .container {
         display: flex;
+        gap: 20px;
         flex-wrap: wrap;
         align-items: center;
         justify-content: center;
@@ -45,6 +46,6 @@
     }
     .text {
         flex: 1;
-        min-width: 300px;
+        /* min-width: 200px; */
     }
 </style>
