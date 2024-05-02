@@ -21,7 +21,7 @@ export default [
         link: `https://github.com/clarkdatalabs/bibliometric_networks?tab=readme-ov-file#bibliographic-networks-a-python-tutorial`,
         imagePath: `/images/bibnet.jpeg`,
         description: `Networks provide significant measures to identify data driven patterns and dependencies, and in this tutorial we provide an accessible approach to understanding how networks can be applied to a variety of use cases. We use a bibliographic data file downloaded from a query search in Scopus to walk through the process of cleaning file, writing a python script to parse data into nodes and edges, computing graphical measures using NetworkX, and creating an interactive network display using HoloViews.`,
-        role: `Data Visualization Design and Development Collaborator`,
+        role: `Data Visualization Design and Development Intern`,
         year: `2019`,
     },
     {
@@ -30,7 +30,7 @@ export default [
         imagePath: `/images/derrida.jpeg`,
         description: `The Princeton University Library (PUL) houses Derrida's Margins, a website and online research tool for the annotations of Jacques Derrida. We used data collected from this project to create a visualization of the references used throughout Derrida's De la grammatologie.
         This code can be adapted to create an interactive visualization for a variety of applications to display connectivity and reference along an axis.`,
-        role: `Data Visualization Design and Development Collaborator`,
+        role: `Data Visualization Design and Development Intern`,
         year: `2018`,
     },
     {
