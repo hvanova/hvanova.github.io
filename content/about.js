@@ -1,7 +1,7 @@
 export const name = `Hannah VanWingen-Eckertova`;
 export const title = `Data Visualization Engineer & Frontend Developer`;
 
-export const intro = `From research and design to development and testing, I work to tell powerful stories and develop nuanced understandings that empower action through accessible and interactive data engagement.`
+export const intro = `From research and design to development and testing, I craft nuanced understanding and tell powerful stories that inspire action through accessible and interactive data engagement.`
 export const aboutP1 = `Over the past 5 years, I have held a variety of roles within the field of data visualization. My professional experience includes visualization design and storytelling, data cleaning and preparation, statistical techniques for data exploration, project management, product development, frontend engineering, and backend engineering.
     My interest in social design drives my work forward in a way that necessitates research, a practice I will always value and prioritize.`
 export const aboutP2 =
