@@ -5,7 +5,8 @@ export default [
         range: "JUNE –– DEC 2023",
         description: `Designed and implemented data parsing, transformation, and quality assurance pipelines. 
         Initiated data tracking using the Soda data quality platform to enhance observability and bolster data reliability.
-        Optimized complex data processing workflows, ensuring timely delivery while minimizing resource utilization.`
+        Optimized complex data processing workflows, ensuring timely delivery while minimizing resource utilization.
+        Supported a newly hired data analytics team in learning data workflows, best practices, and troubleshooting techniques.`
         ,
         link: "https://www.lark.com/",
         skills: [
@@ -32,7 +33,7 @@ export default [
         range: `JULY 2019 –– JUNE 2020`,
         description: `Designed and implemented a Python graphical model detecting fluid motion vector fields. Led the development of a highly interactive and configurable D3.js data visualization library.
         Developed the D3.js data visualizations, unit testing, and the data ingestion workflow for a commercial web app aggregating invasive species with neural network analysis of drone imagery.       
-        Wrote a grant proposal to the US Department of Energy for a data sharing platform that automates the processing of raw data files by detecting data types and displaying an optimal visualization to showcase trends, correlations, distributions, and anomalies.`,
+        Wrote a grant proposal to the US Department of Energy for a data sharing platform that automates the processing of raw data files and displays an optimal visualization to showcase data trends, correlations, distributions, and anomalies.`,
         link: `https://www.michiganaerospace.com/`,
         skills: [
             `Python`, `Javascript`, `D3.js`, `Vue.js`, `React`,
