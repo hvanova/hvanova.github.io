@@ -18,7 +18,7 @@
                         {project.role}, {project.year}
                     </div>
                     <div class="text-greyText mt-4 text-sm">
-                        {project.description}
+                        {@html project.description}
                     </div>
                 </div>
             </div>
