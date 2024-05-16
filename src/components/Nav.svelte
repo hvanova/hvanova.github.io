@@ -27,21 +27,21 @@
     </div> -->
     <div class="links">
         <div class="link text-greyText">
-            <a href={links.github}>
+            <a href={links.github} aria-label="Github">
                 <GithubIcon />
             </a>
         </div>
         <div class="link text-greyText">
-            <a href={links.linkedin}>
+            <a href={links.linkedin} aria-label="LinkedIn">
                 <LinkedInIcon />
             </a>
         </div>
         <div class="link text-greyText">
-            <a href={links.observable}>
+            <a href={links.observable} aria-label="Observable">
                 <ObservableIcon />
             </a>
         </div>
-        <div class="link text-greyText">
+        <div class="link text-greyText" aria-label="Email">
             <a href={links.email}>
                 <EmailIcon />
             </a>
