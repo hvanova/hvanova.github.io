@@ -35,7 +35,7 @@ export default [
     },
     {
         title: `Wide Angle Mirror System Design for Distortionless Imaging of the Sky`,
-        link: `/SAIP_poster.jpg`,
+        link: `/SAIP_poster.pdf`,
         imagePath: `/images/SAIP.jpeg`,
         description: `Designed and optimized a wide-angle, concave, dual-mirror system for distortionless imaging of the sky using ray-tracing techniques in MatLab.`,
         role: `National Science Foundation Research Intern`,
