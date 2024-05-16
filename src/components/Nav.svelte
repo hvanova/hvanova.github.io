@@ -41,7 +41,7 @@
                 <ObservableIcon />
             </a>
         </div>
-        <div class="link text-greyText" aria-label="Email">
+        <div class="link text-greyText" title="Email">
             <a href={links.email}>
                 <EmailIcon />
             </a>
