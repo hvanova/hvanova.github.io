@@ -10,7 +10,7 @@
       {intro}
     </div>
     <div class="about pt-5">
-      <p class="mb-4 text-sm text-greyText">{@html aboutP1}</p>
+      <p class="text-sm text-greyText">{@html aboutP1}</p>
     </div>
   </div>
 </div>
