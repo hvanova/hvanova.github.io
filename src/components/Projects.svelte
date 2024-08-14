@@ -15,7 +15,7 @@
                         {project.title}
                     </div>
                     <div class="text-secondaryText">
-                        {project.role}, {project.year}
+                        {project.role} ({project.year})
                     </div>
                     <div class="text-greyText mt-4 text-sm">
                         {@html project.description}
@@ -46,6 +46,6 @@
     }
     .text {
         flex: 1;
-        /* min-width: 200px; */
+        min-width: 300px;
     }
 </style>
