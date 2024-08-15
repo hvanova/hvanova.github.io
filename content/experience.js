@@ -3,7 +3,8 @@ export default [
         title: "Software Engineer II, Data Engineering and Visualization",
         company: "Lark Health Technologies",
         range: "JUNE –– DEC 2023",
-        description: `Built Scala transformers for data parsing, transformation, testing, and cataloging; processed with Spark, orchestrated with Kubernetes, and scheduled with Airflow. 
+        description: `Built Scala transformers for data ETL and testing; processed with Spark, orchestrated with Kubernetes, and scheduled with Airflow. 
+            Designed dimensional data models for business reporting needs.
             Developed data pipeline quality assurance alerting using the Soda platform in Databricks to upgrade observability for stakeholders. 
             Managed data loading and storing privileges in AWS S3. 
             Optimized complex data joins and queries, reducing latency by 50%. 
