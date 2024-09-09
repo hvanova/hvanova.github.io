@@ -31,11 +31,6 @@
             </div>
         </a>
     {/each}
-    <div
-        class="itemPadding my-4 text-white hover:text-highlightText font-medium"
-    >
-        <a href="/resume.pdf">View Full Resume</a>
-    </div>
 </div>
 
 <style>
