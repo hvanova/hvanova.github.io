@@ -2,7 +2,7 @@ export default [
     {
         title: "Software Engineer II, Data Engineering and Visualization",
         company: "Lark Health Technologies",
-        range: "JUNE –– DEC 2023",
+        range: "2023 - 2024",
         description: `Built Scala transformers for data ETL and testing; processed with Spark, orchestrated with Kubernetes, and scheduled with Airflow. 
             Designed dimensional data models for business reporting needs.
             Developed data pipeline quality assurance alerting using the Soda platform in Databricks to upgrade observability for stakeholders. 
@@ -19,7 +19,7 @@ export default [
     {
         title: "Software Engineer I, Data Engineering and Visualization",
         company: "Lark Health Technologies",
-        range: "JAN 2022 –– JUNE 2023",
+        range: "2022 –– 2023",
         description: `Led the Agile development of an automated data reporting service in JavaScript/TypeScript and CSS using React and Next.js, working closely with stakeholders to define and implement business metrics. 
             Collaborated with cross-functional teams to design and implement responsive data visualizations in D3.js for custom business reports. 
             Documented technical product requirements and detailed metric calculations to capture version release changes for data services. 
@@ -33,7 +33,7 @@ export default [
     {
         title: `Research Scientist, Data Visualization`,
         company: `Michigan Aerospace Corporation`,
-        range: `JULY 2019 –– JUNE 2020`,
+        range: `2019 –– 2020`,
         description: `Led the development of a responsive and interactive data visualization library in D3.js using React. 
             Developed, tested, and published open-source NPM packages with UI components for standardized web app development. 
             Implemented a data ingestion pipeline using DroneDeploy API, ensuring real-time data streaming and processing. 
@@ -48,7 +48,7 @@ export default [
     {
         title: `Data Visualization Intern`,
         company: `University of Michigan Digital Projects Studio`,
-        range: `SEPT 2018 –– MAY 2019`,
+        range: `2018 –– 2019`,
         description: `Designed and implemented a responsive and interactive data visualization web app in D3.js using React and Node.js. 
             Created an interactive tutorial for network-based data modeling and statistical analysis in Python using Jupyter Notebooks, providing an accessible platform to learn and apply cutting-edge statistics.`
         ,
