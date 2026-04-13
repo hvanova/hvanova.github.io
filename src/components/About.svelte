@@ -1,5 +1,5 @@
 <script>
-  import { intro, aboutP1 } from "../../content/about.js";
+  import { bio, about} from "../../content/about.js";
   import "../../styles.css";
 </script>
 
@@ -7,10 +7,10 @@
   <p class="sectionTitle">ABOUT</p>
   <div class="details">
     <div class="intro text-secondaryText text-semibold text-base">
-      {intro}
+      {bio}
     </div>
     <div class="about pt-5">
-      <p class="text-sm text-greyText">{@html aboutP1}</p>
+      <p class="text-sm text-greyText">{@html about}</p>
     </div>
   </div>
 </div>
