@@ -1,5 +1,27 @@
 export default [
     {
+        company: "Research Triangle Institute",
+        location: "Remote",
+        link: "https://www.rti.org/",
+        roles: [
+            {
+                title: "Data Scientist III, Health Economics Research",
+                range: "Nov 2024 – Present",
+                bullets: [
+                    `Built predictive expenditure models for the Centers for Medicare and Medicaid Services (CMS) risk adjustment program, translating complex diagnosis interactions into quantitative frameworks for policy assessment`,
+                    ` Managed project deliverables and multi-stakeholder engagement for the Medicare Health Outcomes Survey with the Nationl Committee for Quality Assurance and open-source software package release with CMS`,
+                    `Replaced longstanding SAS systems with modular and automated Python pipelines, implementing innovative solutions to drive efficiency and transparency`,
+                    `Trained team members on Python and GitHub best practices, developed internal onboarding documentation, and led workshops gathering feedback across different teams to leverage expertise and share resources`,
+                    `Built data pipelines in the CMS Integrated Data Repository using Python and SQL, loading petabytes of data`,
+                    `Organized cross-functional team meetings to coordinate a full tech stack transition and database migrations`,
+                ]
+            }
+        ],
+        skills: [
+            `Python`, `SQL`, `Snowflake`, `Big Data Analytics`, `AWS S3`, `SAS`, `Excel`
+        ]
+    },
+    {
         title: "Software Engineer II, Data Engineering and Visualization",
         company: "Lark Health Technologies",
         range: "2023 - 2024",

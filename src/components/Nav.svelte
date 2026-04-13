@@ -36,11 +36,11 @@
                 <LinkedInIcon />
             </a>
         </div>
-        <div class="link text-greyText">
+        <!-- <div class="link text-greyText">
             <a href={links.observable} aria-label="Observable">
                 <ObservableIcon />
             </a>
-        </div>
+        </div> -->
         <div class="link text-greyText">
             <a href={links.email} title="Email">
                 <EmailIcon />
